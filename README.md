@@ -1,2 +1,2 @@
 # health-checks
-Scripts that checks of my computers
+Scripts that checks the health of my computers
